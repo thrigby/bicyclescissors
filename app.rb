@@ -1,7 +1,17 @@
 require 'sinatra'
 require 'erb'
-require_relative 'pony_gmail'
-
+require_relative 'pony_gmail.rb'
+=begin
+begin 
+ # try to use require_relative first
+ # this only works for 1.9
+ require_relative 'my-app.rb'
+rescue NameError
+ # oops, must be using 1.8
+ # no problem, this will load it then
+ require File.expand_path('my-app.rb', __FILE__)
+end
+=end
 get '/' do
   erb :index
 end
