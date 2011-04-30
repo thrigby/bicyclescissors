@@ -1,0 +1,18 @@
+h1 {background:white;margin-top: 1%;text-align: left;margin-left:10%;margin-right:1%;padding-left:1%;padding-right:2%;color:DarkGray;font-family:Monaco;font-size:300%;}
+
+body {margin: 2em;background:white;color:DarkGray;font-family:Monaco;font-size:100%;border-style:solid;border-color:LightGray;border-radius:2em;}
+
+#mssg1 {background:white;margin-top: 2%;text-align: left;margin-left:10%;margin-right:2%;margin-bottom:2%;padding:2%;horizontal-align:middle;verticle-align:middle;color:DarkGray;font-family:Monaco;font-size:80%;border-style:solid;border-color:LightGray;border-radius:1em;width:70%;}
+
+#button {padding:2%;margin:2%;background:white;border-style: raised;border-color:LightGray;border-radius:.5em;font-size:120%;color:gray;font-family:Monaco;}
+
+#textbox {border-radius:1em;border-color:LightGray;font-size:120%;font-color:orange;font-family:Monaco;}
+#form {width:100%;height:140%;padding:2%;margin:2%;background:white;border-style:solid;border-color:LightGray;border-radius:.5em;}
+
+#formfield {font-size:130%;color:orange;font-family:Monaco;background:white;margin: 1%;padding:1%;width:15em;height:1.5em;border-style:solid;border-color:LightGray;border-radius:.5em;}
+
+img.floatLeft {float:left;margin:2%;padding:2%;height:200px;width:200px;}
+
+img.floatMiddle {float:middle;margin:2%;padding:2%;}
+
+img.floatRight {float:right;margin:2%;padding:2%;padding-right:4em;height:200px;width:200px;}
