@@ -24,7 +24,7 @@ post '/appointment' do
               :address       => 'smtp.gmail.com',
               :port       => '587',
               :user_name       => 'bicyclescissors@gmail.com',
-              :password   => 'derkaderka',
+              :password   => 'blarg',
               :authentication       => :plain,
               :domain     => "yourdomain.com"
              }
