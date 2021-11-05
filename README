@@ -1,4 +1,0 @@
-2011-04-30T02:30:12+00:00 app[web.1]: ./app.rb:3: undefined method `require_relative' for main:Object (NoMethodError)
-2011-04-30T02:30:12+00:00 app[web.1]: 	from /usr/ruby1.8.7/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
-2011-04-30T02:30:12+00:00 app[web.1]: 	from /usr/ruby1.8.7/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:31:in `require'
-2011-04-30T02:30:12+00:00 app[web.1]: 	from config.ru:1
